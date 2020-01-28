@@ -24,10 +24,10 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@hapi/joi": "^17.1.0",
     "async": "1.5.x",
     "aws-sdk": "^2.186.x",
     "bunyan": "^1.8.12",
-    "joi": "10.6.x",
     "lodash": "4.x.x",
     "node-uuid": "1.4.x",
     "stream-to-promise": "~2.2.0"
